@@ -1,0 +1,5 @@
+efemert: 20 (Level: 1) 07/06/2022
+null: 20 (Level: 3) null
+null: 20 (Level: 3) null
+efemert: 30 (Level: 3) 07/06/2022
+efe: 240 (Level: 3) 212121
